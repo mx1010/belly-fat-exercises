@@ -5,9 +5,14 @@ This mostly requires weights, once comfortable with the weights, increase by 6-1
 
 ## Exercises w/ no equipment required
 
+
 #### Front Plank:
 
+Lie prone on mat. Place forearms on mat, elbows under shoulders. Place legs together with forefeet on floor.
 
+Raise body upward by straightening body in straight line. Hold position.
+
+Muscles are exercised isometrically. Exercise can also be performed with straight supporting arms in pushup stance. Also see Spot Reduction Myth.
 
 Works:
 - Abs, Back
@@ -23,6 +28,46 @@ Raise arm out straight beside head while raising and extending leg on opposite s
 Works:
 - Spine, core, traps, biceps, neck
 
+#### Basic crunch:
+
+Lie supine on mat with lower legs on bench. Place hands behind neck or head.
+
+Flex waist to raise upper torso from mat. Keep low back on mat and raise torso up as high as possible. Return until back of shoulders contact mat. Repeat.
+
+Certain individuals may need to keep their neck in neutral position with space between their chin and sternum.
+
+Works:
+- Abs
+
+#### Crunch up:
+
+Lie supine on mat or floor with bent leg and arms pointed up.
+
+Flex waist to raise upper torso from floor. Return until back of shoulders contact padded incline board. Repeat.
+
+Hip may move slightly during exercise. Exercise can be performed with added resistance if needed, by holding weight above. Quadriceps were not listed under stabilizers since they are not under significant resistance. Certain individuals may need to keep their neck in neutral position with space between their chin and sternum
+
+Works:
+- Abs, obliques, hip flexors
+
+http://www.exrx.net/WeightExercises/RectusAbdominis/BWCrunchUp.html
+
+
+#### Jack knife sit up:
+
+Sit on floor or mat. Lie supine with hands to sides.
+
+Simultaneously raise knees and torso until hips and knees are flexed. Return to starting position with waist, hips and knees extended. Repeat.
+
+Begin each repetition with upper back on floor to allow abdominal muscles to work dynamically. The Rectus Abdominis and Obliques dynamically contract only when actual waist flexion occurs. With no waist flexion, Rectus Abdominis and External Oblique will only isometrically contract to stabilize pelvis and waist during hip flexion. 
+
+Works:
+- Abs, etc.
+
+http://www.exrx.net/WeightExercises/RectusAbdominis/WtJackKnifeSitUp.html
+
+Great resource:
+http://www.exrx.net/Lists/ExList/WaistWt.html#Rectus
 
 ## Equipment required
 
