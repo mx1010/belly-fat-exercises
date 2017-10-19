@@ -3,16 +3,16 @@
 This mostly requires weights, once comfortable with the weights, increase by 6-12% more weight. At least 20 mins of cardio must be done prior to beginning workout.
 
 
-### Exercises w/ no equipment required
+## Exercises w/ no equipment required
 
-##### Front Plank:
+#### Front Plank:
 
 
 
 Works:
 - Abs, Back
 
-##### Bird Dog:
+#### Bird Dog:
 
 https://www.exrx.net/WeightExercises/ErectorSpinae/BWBirdDog.html
 
@@ -24,21 +24,21 @@ Works:
 - Spine, core, traps, biceps, neck
 
 
-### Equipment required
+## Equipment required
 
 
-#### Requires balance ball
+### Requires balance ball
 
-##### Russian twist:
+#### Russian twist:
 
 Lean on top of an stability ball with the upper back on the ball and the hips out straight in front of the body, with knees bent at 90 degrees. Keep the body straight from shoulders to knees. Hold the arms out straight in front of the chest with the palms touching each other. Twist through the stomach and shoulders rotating on to one shoulder with the hips up. Keep the feet on the ground and back straight and rotate to the opposite side.
 
 Works:
 - Abs, Butt/Hips, Legs - Thighs
 
-#### Requires barbell
+### Requires barbell
 
-##### Barbell squat:
+#### Barbell squat:
 
 From rack with barbell at upper chest height, position bar high on back of shoulders and grasp barbell to sides. Dismount bar from rack and stand with shoulder width stance.
 
@@ -53,7 +53,7 @@ Works:
 - Quads, Butt
 
 
-##### Romanian Deadlift:
+#### Romanian Deadlift:
 
 From rack with barbell at upper chest height, position bar high on back of shoulders and grasp barbell to sides. Dismount bar from rack and stand with shoulder width stance.
 
@@ -65,9 +65,9 @@ Works:
 - Chest, core, hips, knees
 
 
-#### Requires dumbells:
+### Requires dumbells:
 
-##### Chest Press:
+#### Chest Press:
 
 Starting Position: Grasp two dumbbells and lie supine (on your back) on a flat bench with your feet firmly placed on the floor or upon a raised platform to allow you to maintain a flat or neutral (flat) spine. If working with a spotter, signal the spotter for assistance in handing you your the dumbbells.
 
@@ -84,7 +84,7 @@ https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/19
 Works:
 - chest, biceps, triceps
 
-##### Bent-over row:
+#### Bent-over row:
 
 Kneel over side of bench by placing knee and hand of supporting arm on bench. Position foot of opposite leg slightly back to side. Grasp dumbbell from floor.
 
@@ -98,7 +98,7 @@ https://www.exrx.net/WeightExercises/BackGeneral/DBBentOverRow.html
 Works:
 - Back, shoulders, tricep, bicep
 
-##### Seated overhead press:
+#### Seated overhead press:
 
 Starting Position: Grasp the dumbbells in your hands and sit with your back against a back rest so that your head, shoulders and butt make contact with the bench. Place your feet firmly on the floor. Stiffen your torso by contracting your core and abdominal muscles ("bracing"). If working with a spotter, signal for assistance. Exhale and slowly lift the dumbbells to your shoulder level with a closed, pronated grip (palms facing forward and thumbs wrapped around the handles), with the dumbbells at shoulder-width or slightly wider and wrists in a neutral position (avoid flexion and extension of the wrists). Retract and depress your scapulae (pull down and back) and hold this scapulae position throughout the exercise.
 
@@ -111,7 +111,7 @@ https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/45
 Works:
 - arms, shoulders
 
-##### Bicep curl:
+#### Bicep curl:
 
 Hold the barbell with both hands facing up so the wrists, elbows, and shoulders are in a straight line about shoulder-width apart. Lift the barbell toward the shoulders while bending the elbows and keeping them next to the middle of the body. Slowly lower the weight to return to the starting position. Keep chest still, using just the arms for the movement.
 
@@ -121,7 +121,7 @@ Works:
 https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/70/bicep-curl
 
 
-##### Triceps kickback:
+#### Triceps kickback:
 
 Starting Position: Hold a dumbbell in your left hand and assume a split-stance position placing your right leg forward, but keeping your weight evenly distributed through the heels of both feet. Stiffen your torso by contracting your abdominal and core muscles ("bracing"). Place your right hand on your right thigh or knee and slowly lean forward, transferring most of your upper extremity body weight into that right side. Depress and retract your left scapula (pull your shoulder down and back) and maintain this position throughout the exercise. Your head should be aligned with your spine.
 
